@@ -1,3 +1,3 @@
-# super-bulles-C
-"Jeu d'arcade 2D (clone de Super Pang) développé en langage C. Projet structuré autour d'une architecture MVC stricte et utilisant la librairie graphique Allegro 4."
-<img width="877" height="405" alt="image" src="https://github.com/user-attachments/assets/9d5a8e13-e73b-42e6-a59b-6493ebce3a81" />
+# Candy-Crush
+Un jeu de type Match-3 tactique en console où vous devez aligner des lettres colorées pour réussir des contrats et progresser à travers les niveaux.
+<img width="617" height="508" alt="image" src="https://github.com/user-attachments/assets/a93d95c2-30f2-4b57-86be-9af63a4fe86a" />
